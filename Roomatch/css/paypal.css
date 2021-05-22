@@ -1,0 +1,45 @@
+
+.paypal-head {
+    transform: translateY(2rem);
+}
+
+.cover {
+    background-image: url(https://paysend.com/images/how-to-send-money-via-paypal-1200.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body {
+    min-height: 100vh;
+}
+
+.productBlock{
+    text-align:center;
+    font-weight: bold;
+    margin:auto;
+    font-size-adjust: 0.58;
+    background-color:white;
+    font-size: large;
+}
+
+.pay{
+    margin:auto;
+    text-align:center;
+    font-size:large;
+    font-size-adjust: 0.58;
+    background-color:white;
+    font-weight: bold;
+  
+}
+.button {
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: large;
+  cursor: pointer;
+  border-radius: 4px;
+   width: 100%;
+  padding: 14px 20px;
+  margin: 8px 0;
+}
+

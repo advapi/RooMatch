@@ -1,0 +1,49 @@
+.profile-head {
+    transform: translateY(2rem);
+}
+
+.cover {
+    background-image: url(https://images.unsplash.com/photo-1530305408560-82d13781b33a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    min-height: 100vh;
+}
+
+.info{
+    text-align:right;
+    font-size-adjust: 0.58;
+    background-color:white;
+    font-size:medium;
+}
+
+h5{
+    text-align:right;
+    font-weight: bold;
+}
+
+
+h4{
+    margin:auto;
+    text-align:right;
+    font-size:medium;
+    font-weight: bold;
+}
+
+
+.user-img {
+  display: block;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#instagram {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+-webkit-background-clip: text;
+/* Also define standard property for compatibility */
+background-clip: text;
+-webkit-text-fill-color: transparent;
+}
